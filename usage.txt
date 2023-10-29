@@ -1,0 +1,7 @@
+[start]
+PS C:\Users\freeman\Documents\Programming\simplemonitor> node .\simplemonitor.js 8082
+
+[data send]
+PS C:\Users\freeman\Documents\Programming\simplemonitor\curl-8.4.0_6-win64-mingw\curl-8.4.0_6-win64-mingw\bin> ./curl -d "file=20231030&data=aaaac" -H "Content-Type: application/x-www-form-urlencoded" -X POST http://127.0.0.1:8081/data
+
+
